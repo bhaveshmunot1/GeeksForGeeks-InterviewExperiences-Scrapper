@@ -1,0 +1,3 @@
+Recently Amazon came to our college for both FTE and interns. Here I am sharing my interview experience. There was 1 online round and 3 F2F interviews and 1 Bar Raiser round.Online round had 2 coding questions and 20 (MCQs based on sorting complexity, Recursion, quantitative aptitude , geometry etc).F2F 1He introduced himself and asked me about my project.
+Then He asked me these questions
+1. Find the maximum of all subarrays of size k.-http://www.geeksforgeeks.org/maximum-of-all-subarrays-of-size-k/.I gave him a o(n*n) approach, then o(n*log(n)) approach using segment tree, then o(n*log(k)) using max heap and then o(n) approach using deque. He asked me to write the full production level code.
